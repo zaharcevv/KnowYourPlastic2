@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.product {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+.evian {
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+}
+
+.evian img {
+    width: 500px;
+    height: auto;
+}
+
+.leafs img {
+    width: 30px;
+}
+.grade p {
+
+}
